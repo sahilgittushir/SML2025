@@ -39,4 +39,4 @@ This repository is intended for educational purposes. Please adhere to your inst
 ---
 
 🙌 **Happy Learning!**  
-*Maintained by [Your Name/Username]*  
+*Maintained by Sahil Tushir from IIIT-Delhi*  
