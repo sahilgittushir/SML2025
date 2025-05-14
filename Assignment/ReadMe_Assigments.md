@@ -41,7 +41,7 @@ Compare performance across methods.
 ---
 
 ## 📝 Notes  
-- Theory assignments include derivations (LaTeX recommended).  
+- Theory assignments include derivations.  
 - Coding assignments require NumPy/Pandas (no sklearn for Q3 in Assignment 3).  
 - Datasets: Synthetic (generated) + MNIST subset.  
 
