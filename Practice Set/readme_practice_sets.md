@@ -5,7 +5,7 @@
 
 ## 📌 Problem Sets  
 | Set | Topics | 
-|-----|--------|----------|
+|-----|--------|
 | 📌 **PS1** | Bayes Decision Theory, Multivariate Gaussians | 
 | 📌 **PS2** | PCA, FDA, Regression | 
 | 📌 **PS3** | Bias-Variance, Decision Trees | 
