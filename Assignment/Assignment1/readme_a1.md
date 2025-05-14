@@ -28,7 +28,7 @@
 ---
 
 ## 💻 Technical Notes  
-- **Format**: Submit PDF (LaTeX preferred) or neatly handwritten scans.  
+- **Format**: Submit PDF or neatly handwritten scans.  
 - **Allowed References**: Lecture notes, textbooks. No collaboration.  
 - **Critical Steps**:  
   - Q1: Handle singular `Σᵢ` cases.  
