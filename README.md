@@ -33,7 +33,4 @@
 
 ### ✅ **Ethical Use Guidelines**  
 1. **Reference only**: Use to debug or understand concepts  
-2. **Cite properly**:  
-   ```latex
-   % In LaTeX assignments
-   \footnote{Concept referenced from SML-Master-Repo/A3/solutions.pdf}
+
