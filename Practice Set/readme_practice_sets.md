@@ -1,10 +1,10 @@
 # 📌 Theoretical Problem Sets (SML 2025)  
-*Practice problems with solutions for core Statistical Machine Learning concepts*
+*Practice problems for core Statistical Machine Learning concepts*
 
 ---
 
 ## 📌 Problem Sets  
-| Set | Topics | Problems |  
+| Set | Topics | 
 |-----|--------|----------|
 | 📌 **PS1** | Bayes Decision Theory, Multivariate Gaussians | 
 | 📌 **PS2** | PCA, FDA, Regression | 
